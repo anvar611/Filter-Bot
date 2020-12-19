@@ -5,9 +5,9 @@
 
 My New Updates In This [Channel](https://t.me/RB_BotZ)
 
-Our Beta [Filter Bot](https://t.me/Filters_Robot).
+My Creator [Creator](Https://t.me/Dont_take_my_username)
 
-Alternatively, [find me on telegram](https://t.me/D_ar_k_Angel)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](Https://t.me/Dont_take_my_username)! (Keep all support questions in the support chat, where more people can help you.)
 
 ### Easy Way to Deploy
 
