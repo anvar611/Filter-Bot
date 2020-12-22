@@ -27,10 +27,10 @@ from bot.modules.connection import connect_button
 
 
 PM_START_TEXT = """
-*Hello* *{}*
-*My name is* *{}*\n\n`You Can Add any kind of Filters to This Bot!`
+*ഹായ്* *{വെറുെതെ നിന്ന് സമയം കളയണ്ട എന്നെ വേെറെ ഗ്രൂപ്പിൽ ഉപേേയേഗിക്കണമെങ്കിൽ എണ്ടെ മുതലാളിയുെടെ PERMISSION വേണം😎😎}*
+*MY OWNER NAME* *{@Donttakemy_username}*\n\n`You Can Add any kind of Filters to This Bot!`
 
-_Click Help button for more details_
+_ ഇവിെടെ ക്ലിക്ക് ചെയ്താ എന്നെപ്പറ്റി അറിയാൻ പട്ടും_
 """
 
 
